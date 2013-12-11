@@ -25,9 +25,6 @@ Then  [outcome]
 #### TODO
 - [logical step in completing this story]
 
-#### Files
-- [path to a file involved in this story]
-
 #### Notes
 - [peculiar aspect relevant this story]
 
